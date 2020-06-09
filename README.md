@@ -1,0 +1,1 @@
+Constrained regression for 5 features (excluding intercept) with specific order expected in the value of coefficients and all coefficients assumed to be non-negative.
